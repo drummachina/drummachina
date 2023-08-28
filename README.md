@@ -19,3 +19,4 @@ sensitive_file
 transcrypt -c aes-256-cbc -p '<secret_password>'
 ```
 4. Now, your `sensitive_file` should be decrypted.
+   
